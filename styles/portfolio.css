@@ -102,7 +102,7 @@ main {
     margin: 0 auto;
 }
 
-main section{
+main section {
     margin-top: 130px;
 }
 
@@ -144,4 +144,11 @@ main section{
 
 .skill-description {
     color: #757575;
+}
+
+/* Resume Section styles */
+.resume-column-title {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
 }
